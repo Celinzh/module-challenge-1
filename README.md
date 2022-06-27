@@ -6,16 +6,16 @@ Wealthfront was founded by Benchmark co-founder Andy Rachleff and Dan Carroll in
 Wealthfront has raised $204.5 million in funding over six rounds from 2008 to 2018 (Crunchbase, 2022). It is funded by 38 investors, including the most recent ones, such as Dag Ventures and Spark Capital (Crunchbase, 2022).
  
 ## Business Activities
-###Company Objective
+### Company Objective
 The original focus of Wealthfront was to provide financial consulting services to the technology companies. After realising the potential for technology innovation in the wealth management industry, Wealthfront shifted its objective to utilise computer software to give investment advice to a broader community at a lower cost (Andrew & Mitchell, 2019). As Wealthfront (2018) stated: "Our mission here is to democratise access to sophisticated financial advice for everyone."
  
-###Market Overview
+### Market Overview
 According to the ReseachDive report (2022), the global advisory market is expected to grow revenues to $59,344.5 million by 2028, increasing at a CAGR of 39.9% from 2021 to 2028. 
 The segment of the market (Yahoo Finance, 2022)
 - The hybrid Robo-advisory sub-segment is predicted to be the ideal alternative for Robo advisory-based investment services. It is estimated to have a revenue of $31,413.0 million by 2028.
 - The Asia-Pacific region is identified as the fastest-growing market, estimated to hit a revenue of $19,518.4 million by 2028. The region has the largest growing middle-class population and high-net-worth entrepreneurs.
  
-###Features
+### Features
 Wealthfront is recognised as the best Robo-advisor platform for goal planning features among other competitors (Friedberg, 2022). Its goal planning and financial decision-making tools, collectively called Path, are the best among the Robo-advisor platform reviews (Friedberg, 2022).
 Investors who use Wealthfront can choose from the following initial goals (Investopedia, 2022):
 Retirement
@@ -26,23 +26,23 @@ Making a large purchase
 Investing a windfall
 Path will automatically project client’s likelihood of reaching the stated goals while considering the relative factors such as inflation, income changes, market performance, etc. (Friedberg, 2022). There will also be a digital display to track progress towards clients' financial goals. In addition to the progress tracking, Path will also be able to draw out charts and graphs to inform clients of the cost of the goals (Friedberg, 2022). Path is capable of answering more than 10,000 financial planning questions (Friedberg, 2022). This automatic financial analysis tool will be free to access no matter whether the client will use Wealthfront to invest or not. Other than that, Wealthfront has customised portfolios with ETFs and cryptocurrency funds, direct stock indexing for larger accounts which is 100,000 minimum, as well as daily tax-loss harvesting (Friedberg, 2022).
  
-###Technology for robo-advisor
+### Technology for robo-advisor
 Comprehensive Robo-advisors use artificial intelligence (AI) to gather additional data - they analyse the investor's real financial behaviour by looking at their investment, bank, and credit card activities.
  
 ## Landscape
-###Robo-advisory domain
+### Robo-advisory domain
 A major shift toward automation has been largely witnessed in different industries over the last decade (Machet, 2021). The technical revolution has spread to the financial industry known as Robo-advisors (Machet, 2021). The market is predicted to expand prosperously. In Australia alone, it is estimated that investment managed by Robo-advisors will increase from US$5.6 billion in 2021 to $21.2 billion by 2025 (Machet, 2021).
  
-###Major innovation of the domain
+### Major innovation of the domain
 Robo-advisors are software designed to do what human investment brokers normally do with algorithms (Antretter et al., 2020). With the help of this fintech product, millions of data points will be analysed to spread clients' money across the most suitable investments, as well as necessary adjustments will be made to maintain an optimal portfolio for their financial goals (Antretter, 2020).
  
-###History
+### History
 The automated trading algorithm has been on the market since the early 2000s (Machet, 2021). However, it wasn't accessible to average investors and was very expensive. Until the Global Financial Crisis in 2008 shook the public trust in the major bankruptcy financial institutions like Lehman Brothers, the start-ups leveraging the emerging technologies as an alternative started to have a competitive edge (Machet, 2021). In the present era, Robo-advisors are offered by various applications and platforms. It has been innovated to use machine learning to detect patterns in data and achieve an optimal portfolio for an investor (Machet, 2021).
  
-###Advantages
+### Advantages
 Robo-advisor services are cheaper and require lower opening balances. It is also more accessible for everyone with an internet connection. Most importantly, Robo-advisor technology performs better than human advisors since they are faster, non-stop, and more rational than humans (Antretter et al., 2020). A study by Harvard (2016) found that investments made by Robo-advisors significantly outperformed the average novice and experienced investors.
  
-###Major competitors
+### Major competitors
 According to Investopedia, different Robo-advisors companies have outstanding features in different areas.
 Best Overall: Wealthfront 
 Best for Beginners: Betterment 
@@ -62,10 +62,10 @@ Wealthfront and other competitive companies have demonstrated the massive value 
  
 ## Results
  
-###Business impact
+### Business impact
 Before 2008, Traditional banks usually provided their financial analysis services to high-net-worth individuals with wealthy backgrounds and sizable assets. However, Wealthfront can offer investment services for lower-income people (Li, et al., 2017). On top of that, Wealthfront only charges customers assets fees, without any commission fees. The low and transparent pricing enables Wealthfront to compete directly with the traditional banking industry (Li, et al., 2017).
  
-###Performance assessment (Investopedia, 2022)
+### Performance assessment (Investopedia, 2022)
 There are a series of metrics to measure the performance of a Robo-advisor company more than investment returns. Moreover, a company with good historical returns doesn't necessarily guarantee that it will consistently outperform its previous outcome. Safety and growth potential are also important.
 Account minimum
 A minimum account requirement is necessary to measure a Robo-advisor company's accessibility and convenience. Wealthfront has a $500 compulsory deposit while Betterment, Ellevest, and Wealthsimple all have $0 account minimums. Services like Schwab Intelligent Portfolios Premium and Vanguard Personal Advisor Services require a minimum deposit of $25,000 and $50,000, respectively.
@@ -85,12 +85,12 @@ The future of Robo-advisory companies by looking to expand their services and eq
 
 
 ## Reference
-Agnew, J., & Mitchell, O. S. (Eds.). (2019). The disruptive impact of FinTech on retirement systems. Oxford University Press.
-Antretter, T. et al., (2020). Do Algorithms Make Better — and Fairer — Investments Than Angel Investors? Harvard Business Review. Retrieved from: https://hbr.org/2020/11/do-algorithms-make-better-and-fairer-investments-than-angel-investors
-Crunchbase. (2022). Wealthfront. Retrieved from: https://www.crunchbase.com/organization/wealthfront/company_financials
-Kerr, R. (2016). When Wealthfront was young: the early years. Vatornews. Retrieved from:  https://vator.tv/news/2016-12-21-when-wealthfront-was-young-the-early-years
-Li, Y., Spigt, R. & Swinkels, L. The impact of FinTech start-ups on incumbent retail banks’ share prices. Financ Innov 3, 26 (2017). https://doi.org/10.1186/s40854-017-0076-7
-FRIEDBERG, B. A. (2022). Wealthfront Review. Retrieved from:https://www.investopedia.com/wealthfront-review-4587933
-Machet, J. (2021). The history of robo-advisors. Unhedged. Retrieved from:https://unhedged.com.au/the-history-of-robo-advisors/
-Research Dive. (2022). Robo Advisory Market by Business Model (Pure Robo Advisor and Hybrid Robo Advisor), End-use (Retail, Afﬂuent, HNI, and UHNI), and Regional Analysis (North America, Europe, Asia-Pacific, and LAMEA): Global Opportunity Analysis and Industry Forecast, 2021–2028. Research DIve. Retrieved from: https://www.researchdive.com/8537/robo-advisory-market?utm_source=PRN&&utm_medium=KDS
+Agnew, J., & Mitchell, O. S. (Eds.). (2019). The disruptive impact of FinTech on retirement systems. Oxford University Press.  
+Antretter, T. et al., (2020). Do Algorithms Make Better — and Fairer — Investments Than Angel Investors? Harvard Business Review. Retrieved from: https://hbr.org/2020/11/do-algorithms-make-better-and-fairer-investments-than-angel-investors  
+Crunchbase. (2022). Wealthfront. Retrieved from: https://www.crunchbase.com/organization/wealthfront/company_financials  
+Kerr, R. (2016). When Wealthfront was young: the early years. Vatornews. Retrieved from:  https://vator.tv/news/2016-12-21-when-wealthfront-was-young-the-early-years  
+Li, Y., Spigt, R. & Swinkels, L. The impact of FinTech start-ups on incumbent retail banks’ share prices. Financ Innov 3, 26 (2017). https://doi.org/10.1186/s40854-017-0076-7  
+FRIEDBERG, B. A. (2022). Wealthfront Review. Retrieved from:https://www.investopedia.com/wealthfront-review-4587933  
+Machet, J. (2021). The history of robo-advisors. Unhedged. Retrieved from:https://unhedged.com.au/the-history-of-robo-advisors/  
+Research Dive. (2022). Robo Advisory Market by Business Model (Pure Robo Advisor and Hybrid Robo Advisor), End-use (Retail, Afﬂuent, HNI, and UHNI), and Regional Analysis (North America, Europe, Asia-Pacific, and LAMEA): Global Opportunity Analysis and Industry Forecast, 2021–2028. Research DIve. Retrieved from: https://www.researchdive.com/8537/robo-advisory-market?utm_source=PRN&&utm_medium=KDS  
 Yahoo Finance. (2022). Robo Advisory Market Predicted to Gather a Revenue of $59,344.5 Million by 2028. Yahoo Finance. Retrieved from: https://au.finance.yahoo.com/news/robo-advisory-market-predicted-gather-125000519.html
