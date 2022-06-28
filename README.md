@@ -31,7 +31,7 @@ Path will automatically project client’s likelihood of reaching the stated goa
 Comprehensive Robo-advisors use artificial intelligence (AI) to gather additional data - they analyse the investor's real financial behaviour by looking at their investment, bank, and credit card activities.
  
 ## Landscape
-### Robo-advisory domain
+### Robo-advisor domain
 A major shift toward automation has been largely witnessed in different industries over the last decade (Machet, 2021). The technical revolution has spread to the financial industry known as Robo-advisors (Machet, 2021). The market is predicted to expand prosperously. In Australia alone, it is estimated that investment managed by Robo-advisors will increase from US$5.6 billion in 2021 to $21.2 billion by 2025 (Machet, 2021).
  
 ### Major innovation of the domain
@@ -68,18 +68,19 @@ Before 2008, Traditional banks usually provided their financial analysis service
  
 ### Performance assessment (Investopedia, 2022)
 There are a series of metrics to measure the performance of a Robo-advisor company more than investment returns. Moreover, a company with good historical returns doesn't necessarily guarantee that it will consistently outperform its previous outcome. Safety and growth potential are also important.
-Account minimum
+1. Account minimum
 A minimum account requirement is necessary to measure a Robo-advisor company's accessibility and convenience. Wealthfront has a $500 compulsory deposit while Betterment, Ellevest, and Wealthsimple all have $0 account minimums. Services like Schwab Intelligent Portfolios Premium and Vanguard Personal Advisor Services require a minimum deposit of $25,000 and $50,000, respectively.
-Availability of human advisors
+2. Availability of human advisors
 Robo-advisor companies also vary in how many human advisors investors can access. A good mixture of automation and human advisors is predicted to be the best business model for users. Wealthfront doesn't have live advisor services. However, it has a free financial planning tool (Path).
-Fees
+3. Fees
 Management and investment fees are essential from a long-term financial perspective. The expense ratios of Wealthfront are between 0.08% and 0.11%, whilst that of Betterment range from 0.07% to 0.17%.
-Annualised return
+4. Annualised return
 Long-term returns are another metric to measure investment performance. Five years or longer returns are more beneficial to have a look on. Wealthfront has a 2.77% 2.5-year annualised return, compared to Betterment and Vanguard, with returns of 1.80% and 3.42% perspectively. 
  
  
 ## Recommendations
 I would suggest Wealthfront embed a customised virtual assistant for every client as a financial butler similar to Siri. The users would customise the virtual assistant, including what sectors would the AI be responsible for managing and what sector of information should the virtual assistant keep an eye on in the market. As estimated by the study funded by Harvard (2017), a combined human and automated advisor would be ideal for the Robo-advisor company to operate. Because Wealthfront doesn't have human-advisor services, it could be quite lost when the clients don't have a strong financial literacy. This customised virtual assistant will not only provide beginner investors with basic financial knowledge, but it will also have the function of monitoring the industry or market that sophisticated investors are interested in. To be more specific, the virtual assistant could monitor Elon Musk'sMusk's Twitter if the investors are interested in space or high-tech stocks, and it will automatically update the users on the newest information. It could also customise a financial report for the users' information and interests collected from the internet regularly.
+
 This feature focuses on filling the gap of Wealthfront'sWealthfront's lack of human advisors and increasing its user experience. This feature could create a unique investing experience while most of the data or market analysis work is complicated and sometimes tedious. This AI could be like a friend to inspire investors, especially beginner inventors and an assistant to scrape useful information for sophisticated investors. This technology would include Voice Recognition integrated with machine learning.
  
 The future of Robo-advisory companies by looking to expand their services and equip themselves with a competitive edge includes providing enhanced customer experience, personalisation, and better advisory outcomes  (Wipro, 2020).
