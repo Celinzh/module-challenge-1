@@ -18,12 +18,13 @@ The segment of the market (Yahoo Finance, 2022)
 ### Features
 Wealthfront is recognised as the best Robo-advisor platform for goal planning features among other competitors (Friedberg, 2022). Its goal planning and financial decision-making tools, collectively called Path, are the best among the Robo-advisor platform reviews (Friedberg, 2022).
 Investors who use Wealthfront can choose from the following initial goals (Investopedia, 2022):
-Retirement
-Buying a home
-Saving for future education
-Taking time off from work
-Making a large purchase
-Investing a windfall
+- Retirement
+- Buying a home
+- Saving for future education
+- Taking time off from work
+- Making a large purchase
+- Investing a windfall
+
 Path will automatically project client’s likelihood of reaching the stated goals while considering the relative factors such as inflation, income changes, market performance, etc. (Friedberg, 2022). There will also be a digital display to track progress towards clients' financial goals. In addition to the progress tracking, Path will also be able to draw out charts and graphs to inform clients of the cost of the goals (Friedberg, 2022). Path is capable of answering more than 10,000 financial planning questions (Friedberg, 2022). This automatic financial analysis tool will be free to access no matter whether the client will use Wealthfront to invest or not. Other than that, Wealthfront has customised portfolios with ETFs and cryptocurrency funds, direct stock indexing for larger accounts which is 100,000 minimum, as well as daily tax-loss harvesting (Friedberg, 2022).
  
 ### Technology for robo-advisor
@@ -44,17 +45,17 @@ Robo-advisor services are cheaper and require lower opening balances. It is also
  
 ### Major competitors
 According to Investopedia, different Robo-advisors companies have outstanding features in different areas.
-Best Overall: Wealthfront 
-Best for Beginners: Betterment 
-Best for Low Costs: M1 Finance
-Best for Mobile: E*TRADE Core Portfolios
-Best for Goal Planning: Wealthfront
-Best for Portfolio Construction: Interactive Advisors
-Best for Portfolio Management: Personal Capital
-Best for Cash Management: Betterment 
-Best for Education: Merrill Guided Investing 
-Best for Socially Responsible Investing: Interactive Advisors 
-Best for Sophisticated Investors: M1 Finance
+- Best Overall: Wealthfront 
+- Best for Beginners: Betterment 
+- Best for Low Costs: M1 Finance
+- Best for Mobile: E*TRADE Core Portfolios
+- Best for Goal Planning: Wealthfront
+- Best for Portfolio Construction: Interactive Advisors
+- Best for Portfolio Management: Personal Capital
+- Best for Cash Management: Betterment 
+- Best for Education: Merrill Guided Investing 
+- Best for Socially Responsible Investing: Interactive Advisors 
+- Best for Sophisticated Investors: M1 Finance
  
 The Robo-advisor domain has become competitive in the present era, running down the fees and business models. A study founded by BlackRock (2016) noted there were 22 new Robo-advisory firms launched in the US in 2014 and 44 in 2015 (Andrew & Mitchell, 2019). Wealthfront'sWealthfront's biggest competitors include Betterment, WiseBanyan, FutureAdvisor, etc. To attract smaller investors, Wealthfront dropped its minimum account value from $5,000 to $5,00 in 2015 competing with Betterment'sBetterment's business model that charges $3 per month for accounts value less than $100 per month. Moreover, traditional players are adapting to the new technology and entering the market. Charles Schwab and Vanguard have introduced their own Robo-advisor platforms with similar fees. In the meantime, services that combine automated and human features challenge pure Robo platforms like Wealthfront. In August 2015, the world's largest asset management firm Blackrock acquired fintech company FutureAdvisor, provoking more competition in the market. 
 Wealthfront and other competitive companies have demonstrated the massive value and competition in the automated investment market at the same time. 
