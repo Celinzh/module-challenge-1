@@ -1,7 +1,7 @@
 # Wealthfront
  
 ## Overview and Origin
-Wealthfront was founded by Benchmark co-founder Andy Rachleff and Dan Carroll in 2008 as a mutual fund analysis company called ""kaChing"" (Kerr, 2016). In 2009, Its CEO Andy Rachleff stated in the New York Times profile, "The mutual fund industry is a $10 trillion industry that has seen no innovation for 25 years. The Internet has had no impact." (Kerr, 2016). In October 2010, after the company achieved $100 million in accumulated assets under management, it officially changed its name to "Wealthfront" (Li, et al., 2017). In December 2011, its new fintech product, an algorithm-powered wealth management advisor, came out with no charges for accounts up to $25,000 and merely 0.25 per cent on assets (Li, et al., 2017). 
+Wealthfront was funded by Benchmark co-founder Andy Rachleff and Dan Carroll in 2008 as a mutual fund analysis company called ""kaChing"" (Kerr, 2016). In 2009, Its CEO Andy Rachleff stated in the New York Times profile, "The mutual fund industry is a $10 trillion industry that has seen no innovation for 25 years. The Internet has had no impact." (Kerr, 2016). In October 2010, after the company achieved $100 million in accumulated assets under management, it officially changed its name to "Wealthfront" (Li, et al., 2017). In December 2011, its new fintech product, an algorithm-powered wealth management advisor, came out with no charges for accounts up to $25,000 and merely 0.25 per cent on assets (Li, et al., 2017). 
  
 Wealthfront has raised $204.5 million in funding over six rounds from 2008 to 2018 (Crunchbase, 2022). It is funded by 38 investors, including the most recent ones, such as Dag Ventures and Spark Capital (Crunchbase, 2022).
  
